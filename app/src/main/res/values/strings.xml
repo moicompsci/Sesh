@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sesh</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="group_x">Group X</string>
+    <string name="sesh">Sesh!</string>
+    <string name="settings">Settings</string>
+    <string name="meetat">Meet at:</string>
+</resources>
